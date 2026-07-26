@@ -121,20 +121,25 @@ An intelligent resume matching platform that evaluates candidate profiles agains
 # GitHub Analytics
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Adarsh52236&theme=github-dark&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=Adarsh52236&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
----
 
 # Activity Graph
 
