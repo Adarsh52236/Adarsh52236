@@ -10,7 +10,7 @@ Computer Science Undergraduate specializing in AI & Analytics — building scala
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkhot64@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeXcellence-h8u9n)
 
-<img src="https://raw.githubusercontent.com/Adarsh52236/Adarsh52236/output/github-snake.svg" alt="Contribution Snake" width="55%" />
+<img src="https://raw.githubusercontent.com/Adarsh52236/Adarsh52236/output/github-snake.svg" alt="Contribution Snake" width="60%" />
 
 </div>
 
