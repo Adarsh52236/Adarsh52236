@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adarsh%20Khot&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
 
-# Adarsh Khot
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Future+Data+Engineer;AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 Computer Science Undergraduate specializing in AI & Analytics — building scalable backend systems and AI-driven applications today, engineering intelligent data platforms tomorrow.
@@ -12,7 +10,7 @@ Computer Science Undergraduate specializing in AI & Analytics — building scala
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkhot64@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeXcellence-h8u9n)
 
-<img src="https://raw.githubusercontent.com/Adarsh52236/Adarsh52236/output/github-snake.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Adarsh52236/Adarsh52236/output/github-snake.svg" alt="Contribution Snake" width="55%" />
 
 </div>
 
@@ -77,20 +75,11 @@ Computer Science undergraduate at MIT Art, Design & Technology University, Pune,
 
 ---
 
-## Contribution Overview
+## Contribution Overview & Top Languages
 
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-
-</div>
-
----
-
-## Top Languages
-
-<div align="center">
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
 
 </div>
