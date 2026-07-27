@@ -10,7 +10,7 @@ Computer Science Undergraduate specializing in AI & Analytics — building scala
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkhot64@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeXcellence-h8u9n)
 
-<img src="https://raw.githubusercontent.com/Adarsh52236/Adarsh52236/output/github-snake.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Adarsh52236/Adarsh52236/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
@@ -18,47 +18,7 @@ Computer Science Undergraduate specializing in AI & Analytics — building scala
 
 ## About
 
-Computer Science undergraduate at MIT Art, Design & Technology University, Pune, specializing in AI & Analytics. My long-term objective is to become a **Data Engineer**, building scalable data platforms, and grow into an **AI Engineer / Data Scientist** working on machine learning, LLMs, and production AI systems.
-
-Alongside that direction, I have a solid software engineering foundation — full-stack web applications, REST APIs, backend services, and cloud deployments — built through real internship and project experience.
-
----
-
-## Experience
-
-**Technical Intern** — D. B. Infotech Pvt. Ltd
-`May 2026 – Present`
-- Creating client requirements documentation for business and software projects
-- Working within a startup incubation and AI-driven software development environment
-
-**Software Developer Intern** — Leontra Technologies *(Remote, Pune, India)*
-`Sep 2025 – Feb 2026`
-- Developed, tested, and deployed scalable software applications aligned with project requirements and delivery timelines
-- Designed backend functionalities integrating REST APIs, databases, and third-party services
-- Collaborated with cross-functional teams to gather requirements and deliver high-quality software solutions
-- Improved application performance and reliability through optimized code and debugging
-
-**Web Application Developer** — MIT Arts, Design & Technology University *(Pune, India)*
-`Jun 2025 – Jul 2025`
-- Built a token-based web application to manage college entry/exit, streamlining access control
-- Developed a responsive frontend in TypeScript for seamless multi-device access
-- Designed backend services in Flask for secure token generation, validation, and real-time request handling
-
----
-
-## Featured Projects
-
-### Mango-LLM
-A transformer-based language model built **entirely from scratch** — custom tokenizer, attention mechanism, and training pipeline, trained on a single 6GB laptop GPU plus free cloud compute. Focused on genuinely understanding LLM internals rather than fine-tuning an existing model.
-
-### Seed2Sustain — AI & IoT Smart Agriculture Platform
-An aeroponics-based smart farming platform integrating ESP8266 sensors for real-time environmental monitoring. Built a FastAPI backend for sensor data processing and automation, a React/TypeScript/Vite dashboard for live visualization, and an Ollama-powered LLM assistant for plant care recommendations — reducing water usage by up to 95%.
-
-### EduQuiz — Online Quiz & Assessment Platform
-[Live demo](https://edu-quiz-eosin.vercel.app) · A full-stack quiz platform (React/TypeScript, Node.js, Express, MySQL) with JWT-authenticated REST APIs, real-time leaderboards via Socket.io, class management, and performance analytics. Deployed on Render + Vercel with cloud-hosted MySQL (Aiven).
-
-### ResuMatch
-An AI-assisted resume matching platform that evaluates candidate profiles against job descriptions.
+Computer Science undergraduate at MIT Art, Design & Technology University, Pune, specializing in AI & Analytics. My long-term objective is to become a **Data Engineer**, building scalable data platforms, and grow into an **AI Engineer / Data Scientist** working on machine learning, LLMs, and production AI systems — backed by a solid software engineering foundation in full-stack development, REST APIs, and cloud deployments.
 
 ---
 
@@ -103,27 +63,15 @@ An AI-assisted resume matching platform that evaluates candidate profiles agains
 
 ---
 
-## Certifications
+## Pinned Projects
 
-- [Computational Thinking for Problem Solving](https://www.coursera.org/account/accomplishments/verify/QTIGYHMDCH0D) — University of Pennsylvania *(Dec 2023)*
-- [Database Management Essentials](https://www.coursera.org/account/accomplishments/certificate/8L6BJIVR8XRT) — Meta *(Feb 2025)*
-- [Deloitte Australia: Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_jTN6iz4Arf5qaCJci_1752234574353_completion_certificate.pdf) — Forage *(Jul 2025)* — Credential ID: kTkSPd6iwaqDpEma3b
-- Python Programming — Reliance Foundation *(Feb 2025)* — Credential ID: RFSA000108797
-- Operating System Basics — Cisco Networking Academy *(Jan 2025)*
-- Networking Basics — Cisco Networking Academy *(Apr 2025)*
+<div align="center">
 
----
+<a href="https://github.com/Adarsh52236/Mango-LLM"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adarsh52236&repo=Mango-LLM&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Adarsh52236/EduQuiz"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adarsh52236&repo=EduQuiz&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Adarsh52236/ResuMatch"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adarsh52236&repo=ResuMatch&theme=github_dark&hide_border=true" /></a>
 
-## Education
-
-**Bachelor of Technology, Computer Science & Engineering**
-MIT Art, Design & Technology University, Pune, India — CGPA 8.37 — *Expected Aug 2027*
-
-**Higher Secondary (12th) — Computer Science**
-Model College of Science and Commerce, Kalyan, India — 78.67% — *Mar 2022*
-
-**Secondary School (10th)**
-Holy Cross English High School, Kalyan, India — 88.60% — *Mar 2020*
+</div>
 
 ---
 
@@ -131,14 +79,12 @@ Holy Cross English High School, Kalyan, India — 88.60% — *Mar 2020*
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=Adarsh52236&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Adarsh52236&theme=github-dark&hide_border=true" alt="GitHub Streak" width="90%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh52236&theme=github-dark&hide_border=true" alt="Activity Graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adarsh52236&theme=darkhub&no-frame=true&margin-w=4" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh52236&theme=github-dark&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
@@ -157,7 +103,5 @@ Holy Cross English High School, Kalyan, India — 88.60% — *Mar 2020*
 <div align="center">
 
 *Building software that scales. Engineering data that can be trusted. Designing AI that creates value.*
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Adarsh52236&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
