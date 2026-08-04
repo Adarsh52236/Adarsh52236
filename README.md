@@ -89,7 +89,7 @@ Computer Science undergraduate at MIT Art, Design & Technology University, Pune,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Adarsh52236&theme=github-dark&hide_border=true" alt="GitHub Streak" width="90%" />
+<img src="https://streak-stats.demolab.com?user=Adarsh52236&theme=github-dark&hide_border=true" alt="GitHub Streak" width="90%"/>
 
 </div>
 
