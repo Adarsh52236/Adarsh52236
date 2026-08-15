@@ -66,9 +66,9 @@ Computer Science undergraduate at MIT Art, Design & Technology University, Pune,
 
 <div align="center">
 
-<a href="https://github.com/Adarsh52236/Mango-LLM"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adarsh52236&repo=Mango-LLM&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/Adarsh52236/EduQuiz"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adarsh52236&repo=EduQuiz&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/Adarsh52236/ResuMatch"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adarsh52236&repo=ResuMatch&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Adarsh52236/Mango-LLM"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Adarsh52236&repo=Mango-LLM&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Adarsh52236/EduQuiz"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Adarsh52236&repo=EduQuiz&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Adarsh52236/ResuMatch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Adarsh52236&repo=ResuMatch&theme=github_dark&hide_border=true" /></a>
 
 </div>
 
@@ -78,8 +78,8 @@ Computer Science undergraduate at MIT Art, Design & Technology University, Pune,
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Adarsh52236&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adarsh52236&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
 
 </div>
 
